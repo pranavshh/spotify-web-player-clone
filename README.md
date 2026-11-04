@@ -5,7 +5,7 @@ A static Spotify web player UI clone built with pure HTML and CSS: sidebar libra
 
 A front-end clone of the Spotify web player interface, built with plain HTML and CSS. This is a UI practice project. It has no backend and no audio playback.
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](assets/Screenshot.png)
 
 ## Features
 
